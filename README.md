@@ -5,7 +5,7 @@ Navigating through banking apps can be a hassle, especially when you're juggling
 
 Introducing VoiceBank, an innovative feature built into Capital One's chatbot Eno, designed to make banking effortless and accessible for everyone. With VoiceBank, users can perform various banking tasks simply by using voice commands, eliminating the need for typing or tapping through menus.
 
-[Capital One BHTS - VOICEBANK.pdf](https://github.com/Pratisthachand/VoiceBank/files/15477259/Capital.One.BHTS.-.VOICEBANK.pdf)
+https://drive.google.com/file/d/1HRkMoBcjVncIEKLks96w-IiaVqpEpvUn/view?usp=sharing
 
 ## Features
 
